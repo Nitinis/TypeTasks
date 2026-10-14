@@ -1,0 +1,12 @@
+{
+  "name": "typetasks",
+  "version": "1.0.0",
+  "description": "A type-safe task model",
+  "main": "model.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
